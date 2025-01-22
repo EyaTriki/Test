@@ -4,3 +4,5 @@ Elle offre une interface intuitive avec plusieurs fonctionnalités clés : un é
 utilisateurs peuvent rechercher des recettes ou les filtrer par catégorie, une section détaillée pour 
 chaque recette avec les ingrédients, les instructions, et une fonctionnalité de sauvegarde des recettes 
 favorites dans le localStorage. 
+version node: v20.11.1
+version react native : @react-native-community/cli": "15.0.1
